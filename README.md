@@ -1,6 +1,6 @@
 Hola 👋 ¡Soy Ernes Llanos!
 
-Disfruto programar y aprender constantemente. A lo largo de mi carrera he trabajado en la gestión de procesos tecnológicos, el análisis de datos y el desarrollo de sistemas automatizados para optimizar resultados
+soy Analista Funcional | Analista Procesos | Data Analyst | Automation Testing que disfruto programar y aprender constantemente
 
 ## Sobre mi carrera
 
