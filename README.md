@@ -2,6 +2,9 @@ Hola 👋 ¡Soy Ernes Llanos!
 
 Disfruto programar y aprender constantemente. A lo largo de mi carrera he trabajado en la gestión de procesos tecnológicos, el análisis de datos y el desarrollo de sistemas automatizados para optimizar resultados
 
+## Sobre mi carrera
+
+Profesional con 7 años de trayectoria en gestión de procesos tecnológicos, análisis de datos y automatización. Mi experiencia en diversos sectores y países (Perú, Chile, España) me ha permitido consolidar un conocimiento práctico y muy versátil. Mi compromiso es diseñar e implementar soluciones que aporten valor real y positivo a la empresa. He liderado la adopción y el desarrollo de metodologías ágiles en equipos de desarrollo optimizando su rendimiento y los resultados de la organización
 
 ### 🛠️ Tecnologías y Herramientas
 
