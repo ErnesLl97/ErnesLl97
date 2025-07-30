@@ -1,6 +1,6 @@
 Hola 👋 ¡Soy Ernes Llanos!
 
-soy Analista Funcional | Analista Procesos | Data Analyst | Automation Testing que disfruto programar y aprender constantemente
+soy un Analista Funcional | Analista Procesos | Data Analyst | Automation Testing que disfruto programar y aprender constantemente
 
 ## Sobre mi carrera
 
