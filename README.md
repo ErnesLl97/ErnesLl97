@@ -1,6 +1,6 @@
 Hola 👋 ¡Soy Ernes Llanos!
 
-soy un Analista Funcional , Analista de datos , con experienica en automatizacion que disfruto programar y aprender constantemente
+soy un Analista Funcional , Analista de datos , con experienica en automatizacion que disfruta programar y aprender constantemente
 
 ## Sobre mi carrera
 
